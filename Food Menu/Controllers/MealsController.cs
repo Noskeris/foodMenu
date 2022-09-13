@@ -6,11 +6,11 @@ using Microsoft.AspNetCore.Mvc;
 namespace FoodMenu.Controllers
 {
     [Route("api/v1/meals/")]
-    public class MealController : ControllerBase
+    public class MealsController : ControllerBase
     {
         private readonly IMealsRepository _mealsRepository;
 
-        public MealController(IMealsRepository mealsRepository)
+        public MealsController(IMealsRepository mealsRepository)
         {
             _mealsRepository = mealsRepository;
         }
