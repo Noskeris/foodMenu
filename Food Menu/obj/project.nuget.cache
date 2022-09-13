@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "raIN0vqp5iZp2nEl8/dTwZ3Bb195vp1gP8vJzamN8kGypCjY+7ctOXvOFYIvxYQ9sNTLL2YCVc8fpNPEkcxj6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nojus\\source\\repos\\Food Menu\\Food Menu\\FoodMenu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nojus\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Nojus\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Nojus\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Nojus\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Nojus\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Nojus\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

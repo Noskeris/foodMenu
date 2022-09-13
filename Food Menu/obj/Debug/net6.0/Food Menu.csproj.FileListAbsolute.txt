@@ -1,0 +1,27 @@
+C:\Users\Nojus\source\repos\Food Menu\Food Menu\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Nojus\source\repos\Food Menu\Food Menu\bin\Debug\net6.0\appsettings.json
+C:\Users\Nojus\source\repos\Food Menu\Food Menu\bin\Debug\net6.0\Food Menu.exe
+C:\Users\Nojus\source\repos\Food Menu\Food Menu\bin\Debug\net6.0\Food Menu.deps.json
+C:\Users\Nojus\source\repos\Food Menu\Food Menu\bin\Debug\net6.0\Food Menu.runtimeconfig.json
+C:\Users\Nojus\source\repos\Food Menu\Food Menu\bin\Debug\net6.0\Food Menu.dll
+C:\Users\Nojus\source\repos\Food Menu\Food Menu\bin\Debug\net6.0\Food Menu.pdb
+C:\Users\Nojus\source\repos\Food Menu\Food Menu\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Nojus\source\repos\Food Menu\Food Menu\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Nojus\source\repos\Food Menu\Food Menu\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Nojus\source\repos\Food Menu\Food Menu\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Nojus\source\repos\Food Menu\Food Menu\obj\Debug\net6.0\Food Menu.csproj.AssemblyReference.cache
+C:\Users\Nojus\source\repos\Food Menu\Food Menu\obj\Debug\net6.0\Food Menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nojus\source\repos\Food Menu\Food Menu\obj\Debug\net6.0\Food Menu.AssemblyInfoInputs.cache
+C:\Users\Nojus\source\repos\Food Menu\Food Menu\obj\Debug\net6.0\Food Menu.AssemblyInfo.cs
+C:\Users\Nojus\source\repos\Food Menu\Food Menu\obj\Debug\net6.0\Food Menu.csproj.CoreCompileInputs.cache
+C:\Users\Nojus\source\repos\Food Menu\Food Menu\obj\Debug\net6.0\Food Menu.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nojus\source\repos\Food Menu\Food Menu\obj\Debug\net6.0\Food Menu.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nojus\source\repos\Food Menu\Food Menu\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Nojus\source\repos\Food Menu\Food Menu\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Nojus\source\repos\Food Menu\Food Menu\obj\Debug\net6.0\scopedcss\bundle\Food Menu.styles.css
+C:\Users\Nojus\source\repos\Food Menu\Food Menu\obj\Debug\net6.0\Food Menu.csproj.CopyComplete
+C:\Users\Nojus\source\repos\Food Menu\Food Menu\obj\Debug\net6.0\Food Menu.dll
+C:\Users\Nojus\source\repos\Food Menu\Food Menu\obj\Debug\net6.0\refint\Food Menu.dll
+C:\Users\Nojus\source\repos\Food Menu\Food Menu\obj\Debug\net6.0\Food Menu.pdb
+C:\Users\Nojus\source\repos\Food Menu\Food Menu\obj\Debug\net6.0\Food Menu.genruntimeconfig.cache
+C:\Users\Nojus\source\repos\Food Menu\Food Menu\obj\Debug\net6.0\ref\Food Menu.dll
